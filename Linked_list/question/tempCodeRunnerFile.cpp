@@ -1,0 +1,2 @@
+
+fourth->next = NULL;
